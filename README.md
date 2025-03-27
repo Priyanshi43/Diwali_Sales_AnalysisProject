@@ -1,7 +1,4 @@
-# Diwali_Sales_AnalysisProject
-
-#EDA Project
-
+#EDA Project 
 # Diwali Sales Analysis
 
 ## Overview
